@@ -1,5 +1,5 @@
-Business Analytics Project :
-Introduction, Background, Problem Statement and Goals
+BUSINESS ANALYTICS PROJECT
+1. Introduction, Background, Problem Statement and Goals
 di jaman sekarang penggunaan tools-tools digital sangatlah penting untuk mempermudah pembacaan data dan analisa data, sehingga dapat melakukan pengambilan keputusan dengan cepat dan tepat, pada artikel kali ini akan membahas mengenai analitik sample data yang ada.
 
 perusahaan yang bergerak di ecommerce ingin membuat strategy baru dalam websitenya atau marketing strategy nya untuk meningkatkan penjualan serta meningkatkan trafic dari website yang ada.
@@ -12,14 +12,7 @@ c. Seberapa banyak Customer yang tertarik pada Promosi yang dilakukan
 2. User Persona & User Flow
 
 User dari dashboard ini adalah Sales manager. User ingin mengetahui sebaran data yang ada terakit dengan penggunaan website yang dilakukan oleh customer mereka.
-Dengan dashboard ini user diharapkan dapat melakukan review dengan lebih cepat dan memperbaiki proses operasional.
-
-Story Line :
-
-
-Dashboard User Flow:
-
-
+Dengan dashboard ini user diharapkan dapat melakukan review dengan lebih cepat dan memperbaiki proses operasional
 Dashboard yang dibuat dapat menjawab pertanyaan awal dari manager sehingga rencana berikutnya bisa fokus dalam menjaga konsistensi performa pada layanan yang memiliki profitability yang baik.
 
 3. Datasets Explanation
